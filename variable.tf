@@ -1,0 +1,19 @@
+variable "region"{}
+variable "vpc_cidr"{}
+variable "vpc_name"{}
+variable "env"{}
+variable "subnets1_cidr"{}
+variable "subnets2_cidr"{}
+variable "azs1"{}
+variable "azs2"{}
+variable "igw_name"{}
+variable "eip_name"{}
+variable "nat_name"{}
+variable "sg_name"{}
+variable "ami"{}
+variable "instance_name"{}
+variable "key_name"{}
+variable "rt1_name"{}
+variable "rt2_name"{}
+variable "instance_type"{}
+
